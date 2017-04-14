@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  
+  <url>
+    <loc>/news/hello-world/</loc>
+    <lastmod>2017-04-14T14:22:23+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/news/hello-world-copy/</loc>
+    <lastmod>2017-01-14T14:22:23+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/news/hello-world-copy-3/</loc>
+    <lastmod>2016-09-14T14:22:23+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/gettingstarted/</loc>
+    <lastmod>2016-07-04T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tutorials/tutorial1/</loc>
+    <lastmod>2016-05-13T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tutorials/tutorial2/</loc>
+    <lastmod>2016-05-13T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/news/hello-world-copy-2/</loc>
+    <lastmod>2016-04-14T14:22:23+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/about/</loc>
+    <lastmod>2015-09-16T11:09:06+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/community/</loc>
+    <lastmod>2015-09-16T11:02:52+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/downloads/</loc>
+    <lastmod>2015-09-14T16:35:03+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/documentation/</loc>
+    <lastmod>2015-07-17T10:09:17+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/help/help/</loc>
+    <lastmod>2015-07-17T10:09:17+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/index/</loc>
+  </url>
+  
+  <url>
+    <loc>/groups/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/help/</loc>
+    <lastmod>2015-07-17T10:09:17+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/news/</loc>
+    <lastmod>2017-04-14T14:22:23+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/</loc>
+    <lastmod>2017-04-14T14:22:23+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tutorials/</loc>
+    <lastmod>2016-05-13T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+</urlset>
